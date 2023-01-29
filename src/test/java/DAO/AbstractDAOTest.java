@@ -1,12 +1,11 @@
-import DAO.DepartmentDAO;
-import DAO.Driver;
-import DAO.EmployeeDAO;
-import DAO.PersonalCardDAO;
+package DAO;
+
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 
 import java.sql.Connection;
+
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
@@ -36,7 +35,4 @@ public class AbstractDAOTest {
     void rollback() throws SQLException {
         connection.rollback();
     }
-
-
-
 }

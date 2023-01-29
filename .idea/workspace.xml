@@ -4,19 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b40558ca-dc8a-40eb-8c07-a7531fd66551" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="2072b6a0-f910-45b2-a62a-43357cdd2fa5" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/ConnectionPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/DepartmentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/DepartmentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/EmployeeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/PersonalCardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/PersonalCardDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/PersonalCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/PersonalCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DAO/AbstractDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DAO/AbstractDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DAO/DBConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DAO/DBConnectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/create_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/create_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/init_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/init_db.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2KmmeCVngxvH2QyFZWrMmGHLOs9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KoaFyVaMv4MPk4AqYOxETkHMRw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,19 +63,139 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/Test_hm",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.PersonalCardDAOTest">
+    <configuration name="DBConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_project_hm3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.DBConnectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_project_hm3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.DepartmentDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_project_hm3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.EmployeeDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonalCardDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_project_hm3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.PersonalCardDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonalCardDAOTest.getPersonalCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_project_hm3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DAO" />
+      <option name="MAIN_CLASS_NAME" value="DAO.PersonalCardDAOTest" />
+      <option name="METHOD_NAME" value="getPersonalCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonalCardDAOTest" />
+        <item itemvalue="JUnit.EmployeeDAOTest" />
+        <item itemvalue="JUnit.DepartmentDAOTest" />
+        <item itemvalue="JUnit.DBConnectionTest" />
+        <item itemvalue="JUnit.PersonalCardDAOTest.getPersonalCard" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b40558ca-dc8a-40eb-8c07-a7531fd66551" name="Changes" comment="" />
-      <created>1674588243021</created>
+      <changelist id="2072b6a0-f910-45b2-a62a-43357cdd2fa5" name="Changes" comment="" />
+      <created>1674643294038</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674588243021</updated>
-      <workItem from="1674588251075" duration="10000" />
+      <updated>1674643294038</updated>
+      <workItem from="1674643298048" duration="4066000" />
+      <workItem from="1674650168116" duration="375000" />
+      <workItem from="1674650962065" duration="563000" />
+      <workItem from="1674670504544" duration="5467000" />
+      <workItem from="1674713694381" duration="6558000" />
+      <workItem from="1674728607503" duration="10170000" />
+      <workItem from="1674752414644" duration="957000" />
+      <workItem from="1674822502112" duration="3113000" />
+      <workItem from="1674826767877" duration="1924000" />
+      <workItem from="1674829337161" duration="3051000" />
+      <workItem from="1674992919556" duration="13639000" />
+      <workItem from="1675010307609" duration="13000" />
+      <workItem from="1675010409544" duration="34000" />
+      <workItem from="1675010504322" duration="1025000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
